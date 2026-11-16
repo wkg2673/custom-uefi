@@ -111,4 +111,5 @@ qemu-system-x86_64 -bios /usr/share/OVMF/OVMF_CODE.fd -drive file=fat:rw:.,forma
 
 ## License
 
-[MIT](LICENSE) - do what you want.
+This project is licensed under the MIT License.
+See the [LICENSE](LICENSE) file for details.
