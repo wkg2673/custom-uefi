@@ -79,6 +79,8 @@ x86_64-w64-mingw32-gcc -nostdlib -Wl,-dll -shared -Wl,--subsystem,10 -e efi_main
 docker run --rm -v "${pwd}:/work" -w /work fedora bash -c "dnf install -y gnu-efi-devel binutils gcc make && make"
 ```
 
+## OR: Go to the [RELEASES](https://github.com/wkg2673/custom-uefi/releases/latest) tab to download the latest prebuilt `.efi` file.
+
 ## Install / Run
 
 1. Format USB as FAT32 / GPT
