@@ -4,6 +4,9 @@
 
 A minimal UEFI Shell-like `.efi` application with a green `C:\>` prompt.
 
+<img width="1259" height="1599" alt="wkg2673-uefi-shell" src="https://github.com/user-attachments/assets/ef5160cd-98c0-45c0-9893-cc30935bdfe8" />
+
+
 </div>
 
 ## Features
